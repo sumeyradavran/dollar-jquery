@@ -1,2 +1,2 @@
-# dollar-jquery
+jquery  app  with error page
  
